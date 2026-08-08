@@ -1,0 +1,21 @@
+title: Sabrina Reis
+description: CSE PhD Student in Programming Languages, UC Santa Cruz
+url: "https://sabrina-reis.com"
+baseurl: ""
+
+markdown: kramdown
+kramdown:
+  input: GFM
+
+plugins:
+  - jekyll-seo-tag
+
+# Edit these once you have the real links
+github_url: "https://github.com/"
+email: "you@example.com"
+orcid_url: "https://orcid.org/"
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
