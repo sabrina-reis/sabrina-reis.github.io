@@ -1,1 +1,1 @@
-Personal academic site built with Jekyll deployed via GitHub Pages.
+Personal site built with Jekyll deployed via GitHub Pages.
