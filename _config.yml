@@ -9,11 +9,9 @@ kramdown:
 
 plugins:
   - jekyll-seo-tag
-
-# Edit these once you have the real links
-github_url: "https://github.com/"
-email: "you@example.com"
-orcid_url: "https://orcid.org/"
+  
+github_url: "https://sabrina-reis.github.com/"
+orcid_url: "https://orcid.org/0009-0004-5510-0807"
 
 exclude:
   - README.md
