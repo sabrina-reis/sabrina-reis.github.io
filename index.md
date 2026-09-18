@@ -4,7 +4,7 @@ title: About
 permalink: /
 ---
 <p class="page-subtitle">CSE PhD Student, Programming Languages · UC Santa Cruz</p>
-<img src="/assets/headshot.jpeg" alt="Headshot" class="headshot">
+<img src="/assets/birding.jpeg" alt="Headshot" class="headshot">
 Hello! I'm a second-year PhD student in Computer Science and Engineering at UC Santa Cruz advised by [Lindsey Kuper](https://users.soe.ucsc.edu/~lkuper/). 
 
 I work on multiparty programming, which integrates ideas from multi-tier programming, choreographic programming, and multiparty session types to improve our ability to reason about and build distributed systems. At UCSC, I also co-organize the [Languages, Systems, and Data seminar](https://lsd.ucsc.edu/lsd-seminar/2026fa/). I'm extremely grateful to have my PhD funded by a National Science Foundation Graduate Research Fellowship and a UCSC Eugene Cota-Robles Fellowship.
