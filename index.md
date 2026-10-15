@@ -9,9 +9,9 @@ Hello! I'm a second-year PhD student in Computer Science and Engineering at UC S
 
 I work on multiparty programming, which integrates ideas from multi-tier programming, choreographic programming, and multiparty session types to improve our ability to reason about and build distributed systems. At UCSC, I also co-organize the [Languages, Systems, and Data seminar](https://lsd.ucsc.edu/lsd-seminar/2026fa/). I'm extremely grateful to have my PhD funded by a National Science Foundation Graduate Research Fellowship and a UCSC Eugene Cota-Robles Fellowship.
 
-Before UCSC, I was an Academic Graduate Appointee on the Proof Technologies team at Lawrence Livermore National Laboratory, where I worked on formal methods and programming language tools for the ROSE source-to-source compiler, including e-graph-based rewriting systems and program verification with Cryptol and Frama-C. Prior to LLNL, I received a B.S. in Mathematics & Computer Science and B.S. in Data Science from the University of Oregon's Clark Honors College.
+Before UCSC, I was an Academic Graduate Appointee on the Proof Technologies team at Lawrence Livermore National Laboratory. I worked on formal methods and programming language tools for the ROSE source-to-source compiler, including e-graph-based rewriting systems and program verification with Cryptol and Frama-C. Prior to LLNL, I received a B.S. in Mathematics & Computer Science and B.S. in Data Science from the University of Oregon.
 
-In my free time, I enjoy birding, biking and easy bikepacking, cooking, baking, knitting, weightlifting, and reading novels. If I'm at home, I likely have a cat in my lap.
+In my free time, I enjoy birding, hiking, cooking, baking, knitting, weightlifting, reading novels, and biking around. The coolest bird I've seen recently is a Great-Horned Owl. If I'm at home, I likely have a cat in my lap. 
 
 <p class="byline">
 <a href="{{github.com/sabrina-reis}}">
