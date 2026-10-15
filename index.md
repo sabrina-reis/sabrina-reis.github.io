@@ -11,7 +11,7 @@ I work on multiparty programming, which integrates ideas from multi-tier program
 
 Before UCSC, I was an Academic Graduate Appointee on the Proof Technologies team at Lawrence Livermore National Laboratory. I worked on formal methods and programming language tools for the ROSE source-to-source compiler, including e-graph-based rewriting systems and program verification with Cryptol and Frama-C. Prior to LLNL, I received a B.S. in Mathematics & Computer Science and B.S. in Data Science from the University of Oregon.
 
-In my free time, I enjoy birding, hiking, cooking, baking, knitting, weightlifting, reading novels, and biking around. The coolest bird I've seen recently is a Great-Horned Owl. If I'm at home, I likely have a cat in my lap. 
+In my free time, I enjoy birding, hiking, cooking, baking, knitting, weightlifting, reading novels, and biking around. The coolest bird I've seen recently is a juvenile Great Horned Owl. If I'm at home, I likely have a cat in my lap. 
 
 <p class="byline">
 <a href="{{github.com/sabrina-reis}}">
